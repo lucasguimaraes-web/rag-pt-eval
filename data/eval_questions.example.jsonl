@@ -1,0 +1,2 @@
+{"question": "EXEMPLO: qual o prazo previsto para a etapa X?", "source": "seu_documento.pdf", "must_contain": "trecho que prova a resposta"}
+{"question": "EXEMPLO: quais são os critérios de aceitação do item Y?", "source": "outro_documento.pdf", "must_contain": "critérios"}
